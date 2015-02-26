@@ -4,5 +4,5 @@ int ${1:Gi0/1}
 ]]></content>
 	<tabTrigger>ciscoint</tabTrigger>
 	<description>Cisco 7609 router-port interface conf snippet</description>
-	<scope>text.plain</scope>
+	<!-- <scope>text.plain</scope> -->
 </snippet>
