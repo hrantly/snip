@@ -1,0 +1,5 @@
+============================================================
+Thank you for installing Ogi Snippets
+============================================================
+
+Documentation - http://prozacsf84.github.io/ogi-snippets/
