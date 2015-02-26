@@ -6,5 +6,5 @@ int ${1:Gi0/1}
 	<tabTrigger>ciscoint</tabTrigger>
 	<description>Cisco 7609 router-port interface conf snippet</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.cisco</scope>
+	<scope>source.all</scope>
 </snippet>
