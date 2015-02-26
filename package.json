@@ -1,16 +1,15 @@
 {
-  "schema_version": "0.0.4",
+  "schema_version": "0.0.5",
   "packages": [
     {
       "name": "Snip",
       "author": "Ognyan Dimitrov",
       "description": "Sublime text 3 snippets",
       "homepage": "https://github.com/prozacsf84/snip",
-      "last_modified": "2015-02-26 13:30:00",
       "platforms": {
         "*": [
           {
-            "version": "0.0.4",
+            "version": "0.0.5",
             "url": "https://github.com/prozacsf84/snip.git"
           }
         ]
